@@ -9,4 +9,4 @@
 </p>
 
 <p>Front-end hospedado no Netlify: https://dsvendas-glaucials.netlify.app/ </p>
-<p>Back-end hospedado no Netlify: https://dsvendas-glaucials.herokuapp.com/ </p>
+<p>Back-end hospedado no Heroku: https://dsvendas-glaucials.herokuapp.com/ </p>
