@@ -49,13 +49,13 @@ mvn spring-boot:run
 ```
 
 <h2>Front end</h2>
-Pré-requisitos: npm / yarn
+Pré-requisitos: yarn
 
 ```bash
 # clonar repositório
 git clone https://github.com/GlauciaLS/dsvendas-sds3
 
-# entrar na pasta do projeto front end web
+# entrar na pasta do projeto front end
 cd front-web
 
 # instalar dependências
